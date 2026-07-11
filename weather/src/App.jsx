@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/vite.svg'
 
 function App() {
   const api_key = import.meta.env.VITE_API_KEY
